@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "DMチェッカー（大人＆子供版）",
+  "version": "1.6.0",
+  "description": "大人も子供も使えるにゃ！XのDM詐欺やあぶない誘いからみんなを守るチェッカーにゃ。",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://x.com/*",
+        "https://twitter.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
