@@ -1,21 +1,69 @@
-MIT License
-
+DM Risk Checker - Child Safety License
 Copyright (c) 2026 GomaMoti
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+■ 目的
+本ソフトウェアは、子どもや若者をオンライン上の
+グルーミング・詐欺・ハラスメント・搾取から守ることを
+唯一の目的として設計・公開されています。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+■ 許可する使用
+- 子ども安全・被害防止を目的とした使用
+- 教育・研究・啓発目的での使用
+- 非営利の支援活動での使用
+- 上記目的での改変・再配布
+  （ただし下記クレジット表示を必須とする）
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+■ 禁止する使用
+以下の使用を明示的に禁止します：
+1. 本ソフトウェアのロジックを用いて、グルーミング・詐欺・
+   ハラスメントの検知を回避・すり抜け・テストする目的での使用。
+2. 未成年者または脆弱な立場の人物を危険にさらす・搾取する・
+   傷つけるいかなる目的での使用。
+3. 安全システムによる検知を回避する目的での
+   検知ロジックのリバースエンジニアリング。
+4. 商用サービスへの無断組み込み・販売。
+
+■ クレジット表示（必須）
+再配布または派生物には以下を明示すること：
+「DM Risk Checker by GomaMoti (2026) をベースに作成」
+
+■ 免責
+本ソフトウェアは「現状のまま」提供されます。
+著作権者は、本ソフトウェアの使用に起因する
+いかなる損害についても責任を負いません。
+
+---
+
+DM Risk Checker - Child Safety License
+Copyright (c) 2026 GomaMoti
+
+PURPOSE
+This Software was designed exclusively to protect children and young
+people from online grooming, fraud, harassment, and exploitation.
+
+PERMITTED USE
+- Use for child safety and harm prevention purposes
+- Use for educational, research, or awareness purposes
+- Use for non-profit support activities
+- Modification and redistribution for the above purposes
+  (attribution required, see below)
+
+PROHIBITED USE
+The following uses are expressly prohibited:
+1. Using this Software or its logic to evade, circumvent, or test
+   detection of grooming, fraud, or harassment patterns.
+2. Using this Software for any purpose that endangers, exploits,
+   or harms minors or vulnerable individuals.
+3. Reverse-engineering the detection logic for the purpose of
+   avoiding detection by safety systems.
+4. Incorporating into commercial services or selling without
+   explicit permission.
+
+ATTRIBUTION (REQUIRED)
+Any redistribution or derivative work must clearly display:
+"Based on DM Risk Checker by GomaMoti (2026)"
+
+DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
