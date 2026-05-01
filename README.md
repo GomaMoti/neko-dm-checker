@@ -7,8 +7,8 @@ A browser extension for X (Twitter) that uses Grok AI to detect scam patterns in
 
 ## 概要
 
-XのDMや怪しいアカウントをGrok AIで分析する、Chrome拡張機能にゃ。<br>
-詐欺・不審なDMからユーザーを守ることを目的としているにゃ。
+XのDMや怪しいアカウントをGrok AIで分析する、Chrome拡張機能です。<br>
+詐欺・不審なDMからユーザーを守ることを目的としています。
 
 - 公開アカウントはワンクリックで自動分析
 - 鍵アカウントはツイートをコピペして分析
